@@ -219,8 +219,8 @@
                         <a href="coursedetail.html?_id=10021" class="box" target="_blank">
                             <p class="pic"><img src="img/rvzqwzq3ef0pjy1.jpg" class="g_imgf" /></p>
                             <div class="font">
-                                <p class="p1">少儿拉丁舞<span class="line"></span></p>
-                                <p class="p2">童通过拉丁舞的训练可以再未来的身体发育中曲线变得更美，身心健康活动，增强体质，气质高贵。</p>
+                                <p class="p1">少儿英语<span class="line"></span></p>
+                                <p class="p2">通过口语对话训练可以再未来的国际交际中顺畅自如，信心倍增，高端人才，气质高贵。</p>
                                 <p class="btn"><span class="more">MORE</span></p>
                             </div>
                         </a>
@@ -230,8 +230,8 @@
                         <a href="coursedetail.html?_id=10020" class="box" target="_blank">
                             <p class="pic"><img src="img/3a66kpukvktvaby.jpg" class="g_imgf" /></p>
                             <div class="font">
-                                <p class="p1">少儿民族舞<span class="line"></span></p>
-                                <p class="p2">童通过民族舞的训练可以再未来的身体发育中曲线变得更美，身心健康活动，增强体质，气质高贵。</p>
+                                <p class="p1">少儿英语<span class="line"></span></p>
+                                <p class="p2">通过口语对话训练可以再未来的国际交际中顺畅自如，信心倍增，高端人才，气质高贵。</p>
                                 <p class="btn"><span class="more">MORE</span></p>
                             </div>
                         </a>
@@ -241,8 +241,8 @@
                         <a href="coursedetail.html?_id=10019" class="box" target="_blank">
                             <p class="pic"><img src="img/arjjxkvl0fv5iyq.jpg" class="g_imgf" /></p>
                             <div class="font">
-                                <p class="p1">少儿中国舞<span class="line"></span></p>
-                                <p class="p2">童通过中国舞的训练可以再未来的身体发育中曲线变得更美，身心健康活动，增强体质，气质高贵。</p>
+                                <p class="p1">少儿英语<span class="line"></span></p>
+                                <p class="p2">通过口语对话训练可以再未来的国际交际中顺畅自如，信心倍增，高端人才，气质高贵。</p>
                                 <p class="btn"><span class="more">MORE</span></p>
                             </div>
                         </a>
@@ -252,8 +252,8 @@
                         <a href="coursedetail.html?_id=10018" class="box" target="_blank">
                             <p class="pic"><img src="img/34dji6sorejd59t.jpg" class="g_imgf" /></p>
                             <div class="font">
-                                <p class="p1">少儿芭蕾<span class="line"></span></p>
-                                <p class="p2">童通过芭蕾的训练可以再未来的身体发育中曲线变得更美，身心健康活动，增强体质，气质高贵。</p>
+                                <p class="p1">少儿英语<span class="line"></span></p>
+                                <p class="p2">通过口语对话训练可以再未来的国际交际中顺畅自如，信心倍增，高端人才，气质高贵。</p>
                                 <p class="btn"><span class="more">MORE</span></p>
                             </div>
                         </a>
@@ -275,10 +275,9 @@
             </div>
             <div class="intro">
                 <div class="font">
-                    <p class="h1">教学总监：李文丽</p>
+                    <p class="h1">教学总监：roes</p>
                     <p class="p1">
-                        硕士学位，毕业于沈阳音乐学院。从教6年，曾担任浙江省歌剧舞剧院独舞演员，全国“桃李杯”舞蹈比赛一等奖，全国舞蹈比赛表演三等奖。<br />
-                        辽宁省“荷花杯”舞蹈比赛表演金奖，曾为签国家领导人江泽民进行舞蹈表演。曾参加辽宁电视台、湖南卫视春节文艺晚会......
+                        硕士学位，毕业于美国哈佛。从教6年，曾担任廊坊外国语学院教师，全国“外交杯”口语翻译比赛一等奖，全国英语比赛表演三等奖。
                     </p>
                     <a href="#" class="more">READ MORE ></a>
                 </div>
@@ -323,8 +322,8 @@
                     <div class="con">
 
                         <a href="newsdetail.html?_id=10010" class="box" target="_blank">
-                            <p class="p1 g_ell">单色舞蹈2017年度武汉地区成人优秀舞蹈作品展演</p>
-                            <p class="p2">单色舞蹈2017年度武汉地区成人优秀舞蹈作品展演单色舞蹈2017年度武汉地区成人优秀舞蹈作品展演单色舞蹈2017年度武汉地区成人优秀舞蹈作品展演</p>
+                            <p class="p1 g_ell">少儿英语2019年度北京地区少儿英语外教作品展演</p>
+                            <p class="p2">“汤姆之家”是专注于幼少儿英语教育、母语生态式学习培养的教育品牌。我们将美国幼少儿教育体系和模式引入国内，打造美国特色家庭式英语学习氛围，是国内首例关注幼、少儿教育舒适度的高效学习中心。课程极具趣味性和体验性，并融入了学习力唤醒课程，注重注意力、记忆力、思维力、观察力等五项认知领域，全面提升儿童的心理学习能力。作为一家中高端的幼少儿英语培训机构，我们极力为孩子营造更开放、更舒适、更让孩子解放天性的浸泡式全英文学习环境，来到中心好像回到了家一样，可以舒适自然的学英语。</p>
                             <span class="more">READ MORE ></span>
                         </a>
 
@@ -340,8 +339,8 @@
                         <a href="newsdetail.html?_id=10010" class="box" target="_blank">
                             <p class="time">2019.02.28</p>
                             <span class="line"></span>
-                            <p class="p1 g_ell">单色舞蹈2017年度武汉地区成人优秀舞蹈作品展演</p>
-                            <p class="p2">单色舞蹈2017年度武汉地区成人优秀舞蹈作品展演单色舞蹈2017年度武汉地区成人优秀舞蹈作品展演单色舞蹈2017年度武汉地区成人优秀舞蹈作品展演</p>
+                            <p class="p1 g_ell">少儿英语2019年度北京地区少儿英语外教作品展演</p>
+                            <p class="p2">“汤姆之家”是专注于幼少儿英语教育、母语生态式学习培养的教育品牌。我们将美国幼少儿教育体系和模式引入国内，打造美国特色家庭式英语学习氛围，是国内首例关注幼、少儿教育舒适度的高效学习中心。课程极具趣味性和体验性，并融入了学习力唤醒课程，注重注意力、记忆力、思维力、观察力等五项认知领域，全面提升儿童的心理学习能力。作为一家中高端的幼少儿英语培训机构，我们极力为孩子营造更开放、更舒适、更让孩子解放天性的浸泡式全英文学习环境，来到中心好像回到了家一样，可以舒适自然的学英语。</p>
                         </a>
                     </li>
 
@@ -350,8 +349,8 @@
                         <a href="newsdetail.html?_id=10010" class="box" target="_blank">
                             <p class="time">2019.02.28</p>
                             <span class="line"></span>
-                            <p class="p1 g_ell">单色舞蹈2017年度武汉地区成人优秀舞蹈作品展演</p>
-                            <p class="p2">单色舞蹈2017年度武汉地区成人优秀舞蹈作品展演单色舞蹈2017年度武汉地区成人优秀舞蹈作品展演单色舞蹈2017年度武汉地区成人优秀舞蹈作品展演</p>
+                            <p class="p1 g_ell">少儿英语2019年度北京地区少儿英语外教作品展演</p>
+                            <p class="p2">“汤姆之家”是专注于幼少儿英语教育、母语生态式学习培养的教育品牌。我们将美国幼少儿教育体系和模式引入国内，打造美国特色家庭式英语学习氛围，是国内首例关注幼、少儿教育舒适度的高效学习中心。课程极具趣味性和体验性，并融入了学习力唤醒课程，注重注意力、记忆力、思维力、观察力等五项认知领域，全面提升儿童的心理学习能力。作为一家中高端的幼少儿英语培训机构，我们极力为孩子营造更开放、更舒适、更让孩子解放天性的浸泡式全英文学习环境，来到中心好像回到了家一样，可以舒适自然的学英语。</p>
                         </a>
                     </li>
 
@@ -359,8 +358,8 @@
                         <a href="newsdetail.html?_id=10009" class="box" target="_blank">
                             <p class="time">2019.02.28</p>
                             <span class="line"></span>
-                            <p class="p1 g_ell">单色舞蹈2017年度武汉地区成人优秀舞蹈作品展演</p>
-                            <p class="p2">单色舞蹈2017年度武汉地区成人优秀舞蹈作品展演单色舞蹈2017年度武汉地区成人优秀舞蹈作品展演</p>
+                            <p class="p1 g_ell">少儿英语2019年度北京地区少儿英语外教作品展演</p>
+                            <p class="p2">“汤姆之家”是专注于幼少儿英语教育、母语生态式学习培养的教育品牌。我们将美国幼少儿教育体系和模式引入国内，打造美国特色家庭式英语学习氛围，是国内首例关注幼、少儿教育舒适度的高效学习中心。课程极具趣味性和体验性，并融入了学习力唤醒课程，注重注意力、记忆力、思维力、观察力等五项认知领域，全面提升儿童的心理学习能力。作为一家中高端的幼少儿英语培训机构，我们极力为孩子营造更开放、更舒适、更让孩子解放天性的浸泡式全英文学习环境，来到中心好像回到了家一样，可以舒适自然的学英语。</p>
                         </a>
                     </li>
 
@@ -395,10 +394,10 @@
                     <li>
                         <div class="box">
                             <p class="h1">课程展示</p>
-                            <a href="#"><p class="p1">少儿芭蕾</p></a>
-                            <a href="#"><p class="p1">民间民族舞</p></a>
-                            <a href="#"><p class="p1">古典舞</p></a>
-                            <a href="#"><p class="p1">拉丁舞</p></a>
+                            <a href="#"><p class="p1">少儿英语</p></a>
+                            <a href="#"><p class="p1">美式口语</p></a>
+                            <a href="#"><p class="p1">家庭式</p></a>
+                            <a href="#"><p class="p1">互动教育</p></a>
                         </div>
                     </li>
                     <li>
@@ -435,12 +434,12 @@
                     </li>
 
                 </ul>
-                <p class="rx">服务热线：400-0000-000</p>
-                <p class="add">地址：xxxxxxxxxxxxxxxxxxxxxx</p>
+                <p class="rx">服务热线：139-3266-8294</p>
+                <p class="add">地址：廊坊市广阳区格林郡府</p>
             </div>
         </div>
 
-        <div class="bottom">Copyright © 某某舞蹈培训学校 &nbsp;&nbsp;&nbsp; 更多模板：<a href="http://www.mycodes.net/" target="_blank">源码之家</a>	技术支持：<a href="javascript:void(0)" target="_blank">xxxxxxxxxxx</a></div>
+        <div class="bottom">Copyright © 汤姆之家少儿英语 &nbsp;&nbsp;&nbsp; 更多模板：<a href="#" target="_blank">汤姆之家</a>	技术支持：<a href="javascript:void(0)" target="_blank">xxxxxxxxxxx</a></div>
     </div>
 
 
