@@ -8,7 +8,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="format-detection" content="email=no" />
-    <title>教学成果-某某舞蹈培训</title>
+    <title>师资团队-某某舞蹈培训</title>
     <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
     <link rel="stylesheet" type="text/css" href="css/slick-theme.css" />
     <link rel="stylesheet" type="text/css" href="css/slick.css" />
@@ -21,26 +21,36 @@
     <script src="js/g.js"></script>
     <style>
 
-        .ach { margin-top: 70px; }
-        .ach .offset .list { margin-left: -20px; margin-bottom: -40px; overflow: hidden; }
-        .ach .offset .list > li { float: left; width: 25%; padding-left: 20px; padding-bottom: 40px; }
-        .ach .offset .list > li .box { display: block; border-radius: 20px; background: #f5f5f5; }
-        .ach .offset .list > li .box .pic img { border-top-left-radius: 20px; border-top-right-radius: 20px; width: 100%; }
-        .ach .offset .list > li .box .font { padding: 20px 17px 22px 13px; }
-        .ach .offset .list > li .box .p1 { font-size: 16px; color: #333; padding-bottom: 15px; transition: ease .4s; }
-        .ach .offset .list > li .box .p2 { color: #999; line-height: 24px; }
-        .ach .offset .list > li .box:hover .p1 { color: #ec8718; }
+        .teacher { margin-top: 70px; }
+        .teacher .offset .list { margin-left: -40px; margin-bottom: -62px; overflow: hidden; }
+        .teacher .offset .list > li { float: left; width: 25%; padding-left: 40px; padding-bottom: 62px; }
+        .teacher .offset .list > li:nth-child(4n+1) { clear: both; }
+        .teacher .offset .list > li .box { display: block; border-radius: 20px; border: 1px solid #e5e5e5; }
+        .teacher .offset .list > li .box .pic img { border-top-left-radius: 20px; border-top-right-radius: 20px; width: 100%; }
+        .teacher .offset .list > li .box .font { padding: 30px 16px 0 12px; }
+        .teacher .offset .list > li .box .p1 { font-size: 16px; color: #333; padding-bottom: 16px; transition: ease .4s; }
+        .teacher .offset .list > li .box .p2 { color: #666; line-height: 24px; }
+        .teacher .offset .list > li .box .btn { text-align: center; margin-bottom: -24px; margin-top: 18px; }
+        .teacher .offset .list > li .box .btn .add { display: inline-block; background: #ccc; width: 48px; height: 48px; border-radius: 50px; text-align: center; line-height: 56px; transition: ease .4s; }
+        .teacher .offset .list > li .box .btn .add img { width: 22px; }
+        .teacher .offset .list > li .box:hover .p1 { color: #ec8718; }
+        .teacher .offset .list > li .box:hover .btn .add { background: #ec8718; }
 
         @media (max-width: 1024px) {
-            .ach .offset .list > li { width: 33.33%; }
+            .teacher .offset .list > li { width: 33.33%; }
+            .teacher .offset .list > li:nth-child(n) { clear: none; }
+            .teacher .offset .list > li:nth-child(3n+1) { clear: both; }
         }
 
-        @media (max-width: 850px) {
-            .ach .offset .list > li { width: 50%; }
+        @media (max-width: 800px) {
+            .teacher .offset .list > li { width: 50%; }
+            .teacher .offset .list > li:nth-child(n) { clear: none; }
+            .teacher .offset .list > li:nth-child(2n+1) { clear: both; }
         }
 
         @media (max-width: 600px) {
-            .ach .offset .list > li { width: 100%; }
+            .teacher .offset .list > li { width: 100%; }
+            .teacher .offset .list > li:nth-child(n) { clear: none; }
         }
     </style>
     <script>
@@ -73,10 +83,10 @@
                     <li><a href="index.html"><b>首页</b></a></li>
                     <li><a href="about.html"><b>关于我们</b></a></li>
                     <li><a href="course.html"><b>课程展示</b></a></li>
-                    <li><a href="teacher.html"><b>师资团队</b></a></li>
+                    <li><a href="teacher.html" class="on"><b>师资团队</b></a></li>
                     <li><a href="room.html"><b>教室环境</b></a></li>
                     <li><a href="news.html"><b>新闻资讯</b></a></li>
-                    <li><a href="ach.html" class="on"><b>教学成果</b></a></li>
+                    <li><a href="ach.html"><b>教学成果</b></a></li>
                     <li><a href="contact.html"><b style="border-right:0;">联系我们</b></a></li>
                 </ul>
 
@@ -90,88 +100,96 @@
 
     <!--主体内容-->
 
-    <div class="ach">
+    <div class="teacher">
         <div class="g_cw">
 
             <div class="offset">
                 <ul class="list">
 
                     <li>
-                        <a href="#" class="box">
-                            <p class="pic"><img src="img/b73rkg5mlwsuqxw.jpg" class="g_imgf" /></p>
+                        <a href="teacherdetail.html?_id=10017" class="box" target="_blank">
+                            <p class="pic"><img src="img/h1vztvumx5satbp.jpg" class="g_imgf" /></p>
                             <div class="font">
-                                <p class="p1 g_ell">第三届少儿舞蹈大赛荣获二等奖</p>
-                                <p class="p2">舞蹈演员们一边换衣服，一边说着“好冷”，但依旧拦不住她们对于此次演出的...</p>
+                                <p class="p1">教学老师：王丽达</p>
+                                <p class="p2">硕士学位，毕业于沈阳音乐学院。从教6年，曾担任浙江省歌剧舞剧院独舞演员，全国“桃李杯”舞蹈比赛一等奖，全国舞蹈比赛表演三等奖。</p>
+                                <p class="btn"><span class="add"><img src="img/ico_add.svg" /></span></p>
                             </div>
                         </a>
                     </li>
 
                     <li>
-                        <a href="#" class="box">
-                            <p class="pic"><img src="img/b73rkg5mlwsuqxw.jpg" class="g_imgf" /></p>
+                        <a href="teacherdetail.html?_id=10016" class="box" target="_blank">
+                            <p class="pic"><img src="img/yvyrw621gfw1qw1.jpg" class="g_imgf" /></p>
                             <div class="font">
-                                <p class="p1 g_ell">第三届少儿舞蹈大赛荣获二等奖</p>
-                                <p class="p2">舞蹈演员们一边换衣服，一边说着“好冷”，但依旧拦不住她们对于此次演出的...</p>
+                                <p class="p1">教学老师：王丽达</p>
+                                <p class="p2">硕士学位，毕业于沈阳音乐学院。从教6年，曾担任浙江省歌剧舞剧院独舞演员，全国“桃李杯”舞蹈比赛一等奖，全国舞蹈比赛表演三等奖。 辽宁省“荷花杯”舞蹈比赛表演金奖</p>
+                                <p class="btn"><span class="add"><img src="img/ico_add.svg" /></span></p>
                             </div>
                         </a>
                     </li>
 
                     <li>
-                        <a href="#" class="box">
-                            <p class="pic"><img src="img/b73rkg5mlwsuqxw.jpg" class="g_imgf" /></p>
+                        <a href="teacherdetail.html?_id=10015" class="box" target="_blank">
+                            <p class="pic"><img src="img/bp0zq4z62fy7u38.jpg" class="g_imgf" /></p>
                             <div class="font">
-                                <p class="p1 g_ell">第三届少儿舞蹈大赛荣获二等奖</p>
-                                <p class="p2">舞蹈演员们一边换衣服，一边说着“好冷”，但依旧拦不住她们对于此次演出的...</p>
+                                <p class="p1">教学老师：王丽达</p>
+                                <p class="p2">硕士学位，毕业于沈阳音乐学院。从教6年，曾担任浙江省歌剧舞剧院独舞演员，全国“桃李杯”舞蹈比赛一等奖，全国舞蹈比赛表演三等奖。</p>
+                                <p class="btn"><span class="add"><img src="img/ico_add.svg" /></span></p>
                             </div>
                         </a>
                     </li>
 
                     <li>
-                        <a href="#" class="box">
-                            <p class="pic"><img src="img/b73rkg5mlwsuqxw.jpg" class="g_imgf" /></p>
+                        <a href="teacherdetail.html?_id=10014" class="box" target="_blank">
+                            <p class="pic"><img src="img/kiexw21qgljqyn6.jpg" class="g_imgf" /></p>
                             <div class="font">
-                                <p class="p1 g_ell">第三届少儿舞蹈大赛荣获二等奖</p>
-                                <p class="p2">舞蹈演员们一边换衣服，一边说着“好冷”，但依旧拦不住她们对于此次演出的...</p>
+                                <p class="p1">教学老师：王丽达</p>
+                                <p class="p2">硕士学位，毕业于沈阳音乐学院。从教6年，曾担任浙江省歌剧舞剧院独舞演员，全国“桃李杯”舞蹈比赛一等奖</p>
+                                <p class="btn"><span class="add"><img src="img/ico_add.svg" /></span></p>
                             </div>
                         </a>
                     </li>
 
                     <li>
-                        <a href="#" class="box">
-                            <p class="pic"><img src="img/b73rkg5mlwsuqxw.jpg" class="g_imgf" /></p>
+                        <a href="teacherdetail.html?_id=10013" class="box" target="_blank">
+                            <p class="pic"><img src="img/qr6z7uxnkx06o4b.jpg" class="g_imgf" /></p>
                             <div class="font">
-                                <p class="p1 g_ell">第三届少儿舞蹈大赛荣获二等奖</p>
-                                <p class="p2">舞蹈演员们一边换衣服，一边说着“好冷”，但依旧拦不住她们对于此次演出的...</p>
+                                <p class="p1">教学总监：李文丽</p>
+                                <p class="p2">硕士学位，毕业于沈阳音乐学院。从教6年，曾担任浙江省歌剧舞剧院独舞...</p>
+                                <p class="btn"><span class="add"><img src="img/ico_add.svg" /></span></p>
                             </div>
                         </a>
                     </li>
 
                     <li>
-                        <a href="#" class="box">
-                            <p class="pic"><img src="img/b73rkg5mlwsuqxw.jpg" class="g_imgf" /></p>
+                        <a href="teacherdetail.html?_id=10012" class="box" target="_blank">
+                            <p class="pic"><img src="img/ccvrd5s9lnpy6kz.jpg" class="g_imgf" /></p>
                             <div class="font">
-                                <p class="p1 g_ell">第三届少儿舞蹈大赛荣获二等奖</p>
-                                <p class="p2">舞蹈演员们一边换衣服，一边说着“好冷”，但依旧拦不住她们对于此次演出的...</p>
+                                <p class="p1">教学老师：李文丽</p>
+                                <p class="p2">硕士学位，毕业于沈阳音乐学院。从教6年，曾担任浙江省歌剧舞剧院独舞...</p>
+                                <p class="btn"><span class="add"><img src="img/ico_add.svg" /></span></p>
                             </div>
                         </a>
                     </li>
 
                     <li>
-                        <a href="#" class="box">
-                            <p class="pic"><img src="img/b73rkg5mlwsuqxw.jpg" class="g_imgf" /></p>
+                        <a href="teacherdetail.html?_id=10011" class="box" target="_blank">
+                            <p class="pic"><img src="img/sij9iwtxkx2ii2p.jpg" class="g_imgf" /></p>
                             <div class="font">
-                                <p class="p1 g_ell">第三届少儿舞蹈大赛荣获二等奖</p>
-                                <p class="p2">舞蹈演员们一边换衣服，一边说着“好冷”，但依旧拦不住她们对于此次演出的...</p>
+                                <p class="p1">教学总监：李丽丽</p>
+                                <p class="p2">硕士学位，毕业于沈阳音乐学院。从教6年，曾担任浙江省歌剧舞剧院独舞...</p>
+                                <p class="btn"><span class="add"><img src="img/ico_add.svg" /></span></p>
                             </div>
                         </a>
                     </li>
 
                     <li>
-                        <a href="#" class="box">
-                            <p class="pic"><img src="img/b73rkg5mlwsuqxw.jpg" class="g_imgf" /></p>
+                        <a href="teacherdetail.html?_id=10001" class="box" target="_blank">
+                            <p class="pic"><img src="img/myd234dgt1udb6b.jpg" class="g_imgf" /></p>
                             <div class="font">
-                                <p class="p1 g_ell">第三届少儿舞蹈大赛荣获一等奖</p>
-                                <p class="p2">舞蹈演员们一边换衣服，一边说着“好冷”，但依旧拦不住她们对于此次演出的...</p>
+                                <p class="p1">教学总监：李文丽</p>
+                                <p class="p2">硕士学位，毕业于沈阳音乐学院。从教6年，曾担任浙江省歌剧舞剧院独舞演员，全国“桃李杯”舞蹈比赛一等奖，全国舞蹈比赛表演三等奖。</p>
+                                <p class="btn"><span class="add"><img src="img/ico_add.svg" /></span></p>
                             </div>
                         </a>
                     </li>
